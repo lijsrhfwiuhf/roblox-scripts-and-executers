@@ -1,4 +1,0 @@
-print("This is a test!")
-
-local players = Instance.new("Player")
-players.Parent = game:GetService("Players")
